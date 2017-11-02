@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CS 24", "CS 24\CS 24.csproj", "{64A8A690-B3BE-4D23-B562-86A100445DAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64A8A690-B3BE-4D23-B562-86A100445DAE}.Debug|x86.ActiveCfg = Debug|x86
+		{64A8A690-B3BE-4D23-B562-86A100445DAE}.Debug|x86.Build.0 = Debug|x86
+		{64A8A690-B3BE-4D23-B562-86A100445DAE}.Release|x86.ActiveCfg = Release|x86
+		{64A8A690-B3BE-4D23-B562-86A100445DAE}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
